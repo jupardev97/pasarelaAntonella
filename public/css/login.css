@@ -1,0 +1,28 @@
+.content-login{
+    background-image: url("../images/bg-flowers.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.login{
+    background-color: #fff;
+    height: 100%;
+    position: absolute;
+    right: 0;
+}
+.login .form-group{
+    margin-top: 20px;
+}
+.login h1{
+    font-size: 30px;
+}
+.login label{
+    font-size: 25px;
+}
+.login .form-group{
+    margin-bottom: 25px;
+}
+.login input[type='submit']{
+    margin-top: 30px;
+    font-size: 20px;
+}

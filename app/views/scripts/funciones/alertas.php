@@ -1,0 +1,1 @@
+<script src="<?= ROUTE_PUBLIC ?>js/funciones/alertas.js"></script>
